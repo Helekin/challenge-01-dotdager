@@ -10,7 +10,7 @@ const Skills = () => {
             <li className="my-5">C# (afinando el código en tono mayor)</li>
             <li className="my-5">Tocar guitarra y depurar simultáneamente</li>
             <li className="my-5">
-              Filosofar en JavaScript ("¿Qué es un undefined realmente?")
+              Filosofar en JavaScript (¿Qué es un undefined realmente?)
             </li>
           </ul>
         </div>
